@@ -4,7 +4,7 @@
         <description><![CDATA[Riding the wave of sound]]></description>
         <link>https://thegrid.ai/j2musicpro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 17:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 17:26:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/j2musicpro/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/j2musicpro/e81d3e44-3ef1-4dc9-8511-aa3f53d7ce39/index.html</link>
             <guid isPermaLink="false">e81d3e44-3ef1-4dc9-8511-aa3f53d7ce39</guid>
             <pubDate>Mon, 25 Jan 2016 17:05:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Goodhertz, Inc.]]></title>
-            <description><![CDATA[<article><h1>Goodhertz, Inc.</h1><p>One of the best companies designing DSP today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24486eb16170b26f5a1e3ee7e41d601cadebd5a2.png"></article>]]></description>
-            <link>https://goodhertz.co/</link>
-            <guid isPermaLink="false">7a7a0a2c-77f6-4696-8946-6206d87596df</guid>
-            <pubDate>Mon, 25 Jan 2016 17:19:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
