@@ -1,6 +1,6 @@
 name: j2musicPro
 favicon: null
-layout_spectrum: 0.9318997
+layout_spectrum: 0
 typography_spectrum: 0.5573477
 title: Riding the wave of sound
 cta:
@@ -24,6 +24,6 @@ color:
     - '#023f10'
   brandStrength: 0.5
   lightness: 0
-  saturation: 1
-  rhythmicContrast: 0.734767
+  saturation: 0.125
+  rhythmicContrast: 1
 purpose: []
