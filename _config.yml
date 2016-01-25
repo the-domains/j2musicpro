@@ -1,14 +1,29 @@
+name: j2musicPro
+favicon: null
 layout_spectrum: 0.9318997
+typography_spectrum: 0.5573477
+title: Riding the wave of sound
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0
   brandColors:
     - '#E7E2C6'
     - '#4D5254'
     - '#FFFFFF'
     - '#0E0C0D'
     - '#2F2F31'
+  brandStrength: 1
+  lightness: 0
+  saturation: 1
   rhythmicContrast: 0.734767
-typography_spectrum: 0.5573477
-name: j2musicPro
+purpose: []
