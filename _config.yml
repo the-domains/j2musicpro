@@ -1,7 +1,7 @@
 name: j2musicPro
 favicon: null
 layout_spectrum: 0.2546
-typography_spectrum: 0.5573477
+typography_spectrum: 0.33865
 title: 'Josh Woods: Musician, Mixer, Producer'
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#5b4e48'
-    - '#7c7674'
-    - '#023f10'
-  brandStrength: 0.5
+    - '#ae8f66'
+    - '#020003'
+    - '#044e68'
+    - '#e3bbba'
+    - '#5d3b33'
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.25
