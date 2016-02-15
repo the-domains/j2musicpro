@@ -1,6 +1,6 @@
 name: j2musicPro
 favicon: null
-layout_spectrum: 0.93155
+layout_spectrum: 0.2546
 typography_spectrum: 0.5573477
 title: 'Josh Woods: Musician, Mixer, Producer'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#5b4e48'
     - '#7c7674'
     - '#023f10'
-  brandStrength: 0
-  lightness: 0.1875
-  saturation: 0.0625
-  rhythmicContrast: 0.5
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
