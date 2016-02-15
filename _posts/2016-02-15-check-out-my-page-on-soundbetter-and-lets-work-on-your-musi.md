@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-15T01:53:36.003Z'
+datePublished: '2016-02-15T02:28:12.541Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: "Check out my page on Soundbetter and let's work on your music together!"
-dateModified: '2016-02-15T01:52:58.628Z'
+dateModified: '2016-02-15T02:27:49.893Z'
 sourcePath: _posts/2016-02-15-check-out-my-page-on-soundbetter-and-lets-work-on-your-musi.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
