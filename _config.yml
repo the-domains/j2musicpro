@@ -1,29 +1,41 @@
-name: j2musicPro
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.38565
-title: 'Professional Music Production & Mixing '
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
+title: 'Professional Music Production & Mixing '
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.5
+  brandStrength: 0.5
+  rhythmicContrast: 1
   brandColors:
     - '#ae8f66'
     - '#020003'
     - '#044e68'
     - '#e3bbba'
     - '#5d3b33'
-  brandStrength: 0.5
   lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 1
 purpose: []
+favicon: null
+name: j2musicPro
+typography_spectrum: 0.38565
