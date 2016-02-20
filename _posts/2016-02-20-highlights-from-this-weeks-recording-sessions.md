@@ -1,14 +1,15 @@
 ---
 description: 'Drew Daniels on Instagram: “These people... I am so so grateful for my friends... Above and beyond talent or any individual skill sets, it&#39;s the character o'
 author: []
-datePublished: '2016-02-20T13:10:05.774Z'
+datePublished: '2016-02-20T13:40:04.396Z'
 publisher:
-  domain: ''
   name: ''
-dateModified: '2016-02-20T13:09:28.285Z'
+  domain: ''
+dateModified: '2016-02-20T13:39:58.203Z'
 title: "Highlights from this week's recording sessions "
 sourcePath: _posts/2016-02-20-highlights-from-this-weeks-recording-sessions.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
