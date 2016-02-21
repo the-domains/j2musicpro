@@ -4,8 +4,15 @@
         <description><![CDATA[Professional Music Production & Mixing ]]></description>
         <link>https://thegrid.ai/j2musicpro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 15:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 15:11:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/j2musicpro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just throw it in anywhere]]></title>
+            <description><![CDATA[<article><h1>Just throw it in anywhere</h1><p>The revolutionary micing technique for @Adele's @TheGRAMMYs performance has been revealed.</p><img src="https://pbs.twimg.com/media/CbswBSEUsAAHkQv.jpg:large"></article>]]></description>
+            <link>https://thegrid.ai/j2musicpro/just-throw-it-in-anywhere/index.html</link>
+            <guid isPermaLink="false">cd35f4e0-0fff-44f5-a5f9-0eb71f5569ca</guid>
+            <pubDate>Sun, 21 Feb 2016 15:10:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Performance is key]]></title>
             <description><![CDATA[<article><h1>Performance is key</h1><p>New blog post. 8 Steps To A Better Vocal Performance. http://bit.ly/1Q6MyVU #recording #musician</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9da740ea47c3fd4312ca47777024d4e71bf817ed.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/therealj2music/status/684512774215614464</link>
             <guid isPermaLink="false">2e48f6bf-1357-4ea3-b766-d4ff4b716004</guid>
             <pubDate>Mon, 15 Feb 2016 04:31:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I hate the phrase "project studio". It sounds so one dimensional and unimportant to the world at large. "Oh, you must hear my project!" -LC</p>]]></description>
-            <link>https://twitter.com/tapeopmag/status/696856791750021120</link>
-            <guid isPermaLink="false">4ac87001-c31d-460b-addd-97eb6c26647e</guid>
-            <pubDate>Mon, 15 Feb 2016 02:27:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
