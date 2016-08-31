@@ -6,16 +6,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.6218638
   brandStrength: 1
-  lightness: 0.3172043
+  lightness: 0.5340502
   brandColors:
     - '#35241C'
     - '#838F83'
@@ -23,19 +23,19 @@ color:
     - '#E83D2B'
     - '#2568A3'
   rhythmicContrast: 0.5376344
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: j2musicPro
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.688172
+typography_spectrum: 0.9139785
 layout_spectrum: 1
